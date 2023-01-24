@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Orange.Common\Orange.Common.Helper\Orange.Common.Helper.csproj" />
+  </ItemGroup>
+
 </Project>
